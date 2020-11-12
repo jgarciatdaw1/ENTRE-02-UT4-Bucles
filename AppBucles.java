@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- *  @author - 
+ *  @author - Jon García
  *  
  * Punto de entrada a la aplicación
  *  
